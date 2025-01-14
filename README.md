@@ -1,6 +1,6 @@
 # HypixelSBMaps
 All Hypixel Skyblock Server Maps Download for Free Minecraft Java/bedrock/pocket/edition
-#INFO
+# INFO
 Ask the Hypixel Build Team before using any maps on a public server.
 
 
